@@ -1,4 +1,4 @@
-# Uitwerking (naam framework) framework
+# Uitwerking van Standaard ISO 27018
 
 Bedrijven moeten zich aan een aantal frameworks en/of standaarden houden. Aan de studenten van de Hogeschool Utrecht is gevraagd om één van deze frameworks of standaarden uit te werken, zodat het makkelijk te begrijpen is voor studenten.
 
