@@ -9,7 +9,7 @@ Bedrijven moeten zich aan een aantal frameworks en/of standaarden houden. Aan de
 * [Sterke & zwakke punten](#punten)
 * [Wat doen de grote public cloud providers met deze standaard?](#providers)
 
-### Wat voor standaard ISO 27018?
+### Wat voor standaard/framework is ISO 27018?
 typ hier...
 
 ![Image of ISO 27018](https://github.com/PBI01/cg-w6.1-iso27018/blob/main/iso-27017-27018.png)
