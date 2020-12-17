@@ -13,7 +13,7 @@ Bedrijven moeten zich aan een aantal frameworks en/of standaarden houden. Aan de
 typ hier...
 
 ![Image of ISO 27018](https://github.com/PBI01/cg-w6.1-iso27018/blob/main/iso-27017-27018.png)
-### Bijdraging aan Cloud Governance
+### Bijdrage aan Cloud Governance
 Intro...
 * Cloud processen
 * Componenten
