@@ -25,7 +25,7 @@ Intro...
 typ hier...
 
 ### Sterke & zwakke punten
-De implementatie van de standaard heeft grote voordelen voor data processoren in de Cloud, en nog zelfs meer met de ISO 27018 certificatie. Dit certificaat is het enige certificaat die gezamenlijk gecertificeerd is met het standaard ISO 27001. De onderstaande voordelen zijn van toepassing op deze standaarden:
+De implementatie van het standaard heeft grote voordelen voor data processoren in de Cloud, en nog zelfs meer met de ISO 27018 certificatie. Dit certificaat is het enige certificaat die gezamenlijk gecertificeerd is met het standaard ISO 27001. De onderstaande voordelen zijn van toepassing op deze standaarden:
 
 *	Het biedt vertrouwen in de bescherming van informatie van klanten en stakeholders, maar ook het beschermen van het image van de organisatie tegen toegang of data- gegevenslek
 *	Het geeft de mogelijkheid om de risico’s te identificeren, waaraan de informatie wordt blootgesteld, bij het vaststellen van beheersmaatregelen voor de mitigatie.
