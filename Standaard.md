@@ -39,4 +39,8 @@ Het standaard ISO 27018 kan alleen overweg met het standaard ISO 27001 en ISO 27
 
 
 ### Wat doen de grote public cloud providers met deze standaard?
-typ hier...
+AWS, Google Cloud Platform en Microsoft Azure pakken zaken voor het ISO 27018 standaard ongeveer op dezelfde manier aan. Dit wordt op de volgende manieren aangepakt:
+*	Klanten zijn op de hoogte van waar hun data wordt opgeslagen. De bedrijven die ISO 27018 gecertificeerd zijn, moeten hun klanten toelichten over waar hun data opgeslagen staat, en in welk land.
+*	Data van klanten wordt niet gebruikt voor marketing of adverteren, tenzij de klant hierop toestemming geeft. De klanten van deze providers maken zelf dus de keuze of ze hun data vrij willen stellen, zodat het wel of niet gebruikt mag worden voor marketing of adverteren. 
+*	Klanten weten wat er gebeurt met hun persoonlijke gegevens. Er is hiervoor een beleid gemaakt, waardoor klanten in een niet al te lange tijd op een veilige manier beschikking krijgen tot hun data.
+*	Cloud providers voldoen alleen aan legaal bindende verzoeken om openbaarmaking van klantgegevens. Klanten krijgen bij zo’n verzoek altijd een melding, maar alleen niet als het wettelijk niet toegestaan is.
