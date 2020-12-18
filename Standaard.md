@@ -10,9 +10,12 @@ Bedrijven moeten zich aan een aantal frameworks en/of standaarden houden. Aan de
 * [Wat doen de grote public cloud providers met deze standaard?](#providers)
 
 ### Wat voor standaard/framework is ISO 27018?
-typ hier...
+ISO 27018 is het standaard voor specificatie van Cloud Security. De standaard kan worden gebruikt voor elk type organisatie. De grootte van een organisatie maakt niet uit. Het standaard is in 2014 opgericht als aanvulling op het ISO 27002 standaard. De ISO 27002 standaard is er voor bedoeld om bedrijven te ondersteunen om ervoor te zorgen dat persoonlijke data netjes wordt opgeslagen. De 27002 standaard is gebaseerd op het eerdere ISO 9001. 
 
 ![Image of ISO 27018](https://github.com/PBI01/cg-w6.1-iso27018/blob/main/iso-27017-27018.png)
+
+ISO 27018 is dus bedoeld voor organisaties die clouddiensten aanbieden. De data van de klanten van deze diensten worden opgeslagen bij de Cloudprovider. Met ISO 27018 kan de personal identifiable information veilig worden opgeslagen en beheerd, volgens de wetgeving van de Europese Unie. De standaard beschrijft hoe de Cloudproviders de persoonlijke data veilig moeten bewaren volgens Best Practices en hoe er mee om dient te worden gegaan als de data wordt opgevraagd. 
+
 ### Bijdrage aan Cloud Governance
 Intro...
 * Cloud processen
