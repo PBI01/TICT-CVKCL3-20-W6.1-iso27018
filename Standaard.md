@@ -17,12 +17,13 @@ ISO 27018 is het standaard voor specificatie van Cloud Security. De standaard ka
 ISO 27018 is dus bedoeld voor organisaties die clouddiensten aanbieden. De data van de klanten van deze diensten worden opgeslagen bij de Cloudprovider. Met ISO 27018 kan de personal identifiable information veilig worden opgeslagen en beheerd, volgens de wetgeving van de Europese Unie. De standaard beschrijft hoe de Cloudproviders de persoonlijke data veilig moeten bewaren volgens Best Practices en hoe er mee om dient te worden gegaan als de data wordt opgevraagd. 
 
 ### Bijdrage aan Cloud Governance
-Intro...
-* Cloud processen
-* Componenten
-* Services
-* Business
-* Mensen die ermee werken
+Het is van belang dat de processen met betrekking tot Cloud gecertificeerd zijn met het ISO 27018 standaard. De drie grootste Cloud providers hebben hiermee te maken. Veel bedrijven maken gebruik van één van deze providers, en daarom is het belangrijk dat de juiste security wordt toegepast op de processen. Hierdoor krijgen de bedrijven het gevoel dat ze veilig op één van deze platformen hun infrastructuur kunnen inrichten.
+
+De componenten die op Cloud platformen worden ingezet, moeten goed beveiligd zijn, zodat er geen sprake is van datalekken. Dit geldt voor ieder component die in de Cloud beschikbaar is, zoals de virtuele machines en buckets voor opslag. Om te laten zien dat Cloud providers hieraan voldoen, is het van belang dat ze dus gecertificeerd zijn met het ISO 27018 standaard.
+
+Cloud providers beschikken tot veel services die door bedrijven worden ingezet. Om deze services zo veilig mogelijk te houden, is het van belang dat de services ook gecertificeerd zijn met het ISO 20718 standaard. De grootste Cloud providers hebben een lijst met services die hier al aan voldoen. De lijst met gecertificeerde services van AWS is te vinden in de documentatie die betrekking heeft tot de “AWS ISO and CSA Certifications and Services”
+
+Bedrijven moeten aantonen dat ze gecertificeerd zijn met het ISO 27018 standaard, zodat de bedrijven bekend maken dat ze voldoen aan de security aspecten voor als het gaat om Cloud. Bedrijven die het vertrouwen hebben voor het voldoen van het ISO 27018 standaard, kunnen hiervoor een certificeringstraject aangaan. Dit traject bestaat uit de volgende fases: Audit, Certificeringbesluit en Handhaving van het ISO certificaat.
 
 ### Afdekking van aspecten m.b.t. Cloud Governance
 typ hier...
